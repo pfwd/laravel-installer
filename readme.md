@@ -10,6 +10,7 @@ $ eval $(docker-machine env laravel-installer)
 
 2 Adjust the .env file
 ```
+$ cp .env.dist .env
 $ vi .env
 ```
 
